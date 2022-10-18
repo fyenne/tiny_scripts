@@ -61,7 +61,7 @@ print('===finished===\n')
 time.sleep(5)
 # read clipboard?
 d = pd.read_clipboard(header = None)
-d.columns = datetime.today().strftime('%Y%m%d')
+d['timestamp'] = datetime.today().strftime('%Y%m%d')
 print(d)
 d.to_csv("./cred.txt", index = None)
 driver.close()
