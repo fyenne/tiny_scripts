@@ -63,5 +63,6 @@ time.sleep(5)
 d = pd.read_clipboard(header = None)
 d['timestamp'] = datetime.today().strftime('%Y%m%d')
 print(d)
-d.to_csv("./cred.txt", index = None)
+route = r"C:\Users\SRV-USAMYAN\Documents\My SugarSync\app1_dashboard\datadown\cred.txt"
+d.to_csv(route, index = None)
 driver.close()
