@@ -11,12 +11,12 @@ Sub createLink()
     Dim str As Object
     Dim a As Object
     
-    LastRow = Cells(Rows.Count, "A").End(xlUp).Row
+    LastRow = Cells(Rows.Count, Mid(ActiveCell.Address, 2, 1)).End(xlUp).Row
 '    myNum = Application.InputBox("Enter a sheetname for oringinal reference")
     
     With ThisWorkbook.Worksheets("Sheet2")
         For x = 1 To LastRow
-            'Debug.Print regexOne.Replace(ActiveCell.Formula, "")
+            Debug.Print regexOne.Replace(ActiveCell.Formula, "")
             Cells(x, Mid(ActiveCell.Address, 2, 1)).Activate
             .Hyperlinks.Add Anchor:=Selection, Address:="", _
             SubAddress:=regexOne.Replace(ActiveCell.Formula, ""), TextToDisplay:="Main Sheet"
@@ -24,5 +24,7 @@ Sub createLink()
     End With
     
 End Sub
+
+
 
 
