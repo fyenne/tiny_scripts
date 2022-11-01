@@ -13,19 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2022-10-21.md",
-                "mode": "preview",
+                "file": "coal/Coal_2022-10-25.md",
+                "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "9dd40b49385cd910",
+            "id": "e0fd8f6a4e0eb768",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pmax_2022.10.27.md",
+                "file": "coal/Coal_2022-10-25.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 224.5
   },
   "right": {
     "id": "302a982f331010ba",
