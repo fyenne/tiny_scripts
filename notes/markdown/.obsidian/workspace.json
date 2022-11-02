@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "coal/Coal_2022-10-25.md",
+                "file": "pmax_2022.10.27.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "coal/Coal_2022-10-25.md",
+                "file": "pmax_2022.10.27.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "coal/Coal_2022-10-25.md"
+                "file": "pmax_2022.10.27.md"
               }
             }
           }
@@ -146,14 +147,13 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "05967006ee675bee",
+  "active": "9dd40b49385cd910",
   "lastOpenFiles": [
-    "coal/Coal_2022-10-18.md",
-    "coal/Coal_2022-10-25.md",
     "2022-10-21.md",
+    "Untitled.md",
+    "Coal_221018.md",
     "2022-10-24.md",
     "Pasted image 20221024140252.png",
     "Pasted image 20221018105045.png",
