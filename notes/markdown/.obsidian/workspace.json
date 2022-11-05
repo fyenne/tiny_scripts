@@ -56,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -102,8 +102,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -123,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "coal facts.md",
+                "file": "fixing_logs/port_berth.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "coal facts.md",
+                "file": "fixing_logs/port_berth.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "coal facts.md"
+                "file": "fixing_logs/port_berth.md"
               }
             }
           },
@@ -182,17 +181,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "cbe08d6ccba87507",
+  "active": "04bfbd62039241ff",
   "lastOpenFiles": [
+    "coal facts.md",
+    "Pasted image 20221024140513.png",
+    "Pasted image 20221018111257.png",
+    "Pasted image 20221018102557.png",
+    "coal/Coal_2022-10-18.md",
+    "coal/Coal_2022-10-25.md",
     "fixing_logs/port_berth.md",
     "2022-10-24.md",
     "2022-10-21.md",
-    "Screen Shot 2022-10-28 at 5.15.05 PM.png",
-    "pmax_2022.10.27.md",
-    "coal/Coal_2022-10-25.md",
-    "coal/Coal_2022-10-18.md",
-    "Coal_221018.md",
-    "Pasted image 20221024140252.png",
-    "Pasted image 20221018105045.png"
+    "Screen Shot 2022-10-28 at 5.15.05 PM.png"
   ]
 }
