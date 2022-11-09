@@ -50,6 +50,23 @@ author: Samo
 | 10  | Kazakhstan    | 113,619,500,900   |
 
 
+  
 # russia
-Russia holds **176,771 million tons (MMst) of proven coal reserves as of 2016**, ranking [**2nd**](https://www.worldometers.info/coal/coal-reserves-by-country/#russia) in the world and accounting for about 16% of the world's total coal reserves of 1,139,471 million tons (MMst).
-+ export 37% OF ITS COAL. 2016
+第二大煤炭储备, 出口37%生产
+
+---
+
+# 水泥
+
+使用高热值燃煤, 5800kcal+
+
+---
+  
+
+澳洲煤高热值, 含灰量大
++ 中国政策问题, 不进口澳洲煤炭
++ 欧洲买的少, 因为炼钢厂和发电厂设计除灰能力不强. 购买南非和南北美洲.
++ 日韩购买多
+
+南非煤氟含量超标普遍问题, 
++ 中国很少进口. 但是出口欧洲.
