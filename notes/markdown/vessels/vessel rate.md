@@ -39,7 +39,7 @@ LOA 290m, beam 45m, TPC 121
 
 ---
 
-# panama:
+# panamax:
 
 P1A_82 - Panamax Skaw-Gib transatlantic round voyage  (dollor/day) # 82 means size is 82 kdwt kamsarmax
 <mark>P2A_82 - Panamax Skaw-Gib trip to Taiwan-Japan  </mark>

@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tricks.md",
+                "file": "vessels/vessel rate.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tricks.md",
+                "file": "vessels/vessel rate.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tricks.md",
+                "file": "vessels/vessel rate.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tricks.md"
+                "file": "vessels/vessel rate.md"
               }
             }
           },
@@ -170,6 +170,7 @@
   },
   "active": "188d48a4935cd834",
   "lastOpenFiles": [
+    "tricks.md",
     "codes/code_snippet.md",
     "Screen Shot 2022-10-28 at 5.15.05 PM.png",
     "2022-10-21.md",
@@ -178,7 +179,6 @@
     "coal/coal facts.md",
     "vessels/vessel rate.md",
     "vessels/vessel shape.md",
-    "jia.md",
-    "coal/Coal_2022-10-18.md"
+    "jia.md"
   ]
 }
