@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "9ea5722cd939b37f",
+        "id": "08d13087914edfc8",
         "type": "tabs",
         "children": [
           {
-            "id": "24cecb961a2802cc",
+            "id": "921ccdd4444d543c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "codes/code_snippet.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "188d48a4935cd834",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "vessels/vessel rate.md",
+                "file": "coal/Coal_2022-10-25.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vessels/vessel rate.md",
+                "file": "coal/Coal_2022-10-25.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vessels/vessel rate.md",
+                "file": "coal/Coal_2022-10-25.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vessels/vessel rate.md"
+                "file": "coal/Coal_2022-10-25.md"
               }
             }
           },
@@ -168,17 +155,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "188d48a4935cd834",
+  "active": "921ccdd4444d543c",
   "lastOpenFiles": [
-    "tricks.md",
+    "coal/Coal_2022-10-18.md",
+    "coal/Coal_2022-10-25.md",
+    "coal/Coal_2023-01-03.md",
     "codes/code_snippet.md",
-    "Screen Shot 2022-10-28 at 5.15.05 PM.png",
+    "codes/tricks.md",
+    "garch.md",
     "2022-10-21.md",
     "2022-10-24.md",
-    "fixing_logs/port_berth.md",
     "coal/coal facts.md",
-    "vessels/vessel rate.md",
-    "vessels/vessel shape.md",
-    "jia.md"
+    "vessels/vessel shape.md"
   ]
 }
