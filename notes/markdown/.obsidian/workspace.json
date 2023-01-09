@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "coal/Coal_2022-10-25.md",
+                "file": "codes/tricks.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "81e054c7c9691c51",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "codes/bunge_freight_dashboard_ext develop manual.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "coal/Coal_2022-10-25.md",
+                "file": "codes/bunge_freight_dashboard_ext develop manual.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "coal/Coal_2022-10-25.md",
+                "file": "codes/bunge_freight_dashboard_ext develop manual.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "coal/Coal_2022-10-25.md"
+                "file": "codes/bunge_freight_dashboard_ext develop manual.md"
               }
             }
           },
@@ -155,17 +168,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "921ccdd4444d543c",
+  "active": "81e054c7c9691c51",
   "lastOpenFiles": [
+    "codes/tricks.md",
+    "2022-10-21.md",
+    "2022-10-24.md",
+    "codes/bunge_freight_dashboard_ext develop manual.md",
+    "codes/code_snippet.md",
+    "coal/coal facts.md",
     "coal/Coal_2022-10-18.md",
     "coal/Coal_2022-10-25.md",
     "coal/Coal_2023-01-03.md",
-    "codes/code_snippet.md",
-    "codes/tricks.md",
-    "garch.md",
-    "2022-10-21.md",
-    "2022-10-24.md",
-    "coal/coal facts.md",
-    "vessels/vessel shape.md"
+    "garch.md"
   ]
 }
